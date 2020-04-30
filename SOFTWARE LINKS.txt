@@ -1,5 +1,0 @@
-Softwares Link:
-
-Netbeans (Apache Tomcat pre-installed version) - https://netbeans.org/downloads/
-MYSQL - http://www.mediafire.com/?3as86foy3v8958l
-
